@@ -1,8 +1,4 @@
-"Library Management Project" is my first  project that I created using object-oriented programming techniques in Python. It aims to provide basic library functions such as listing, adding, and removing books through a user-friendly interface.
-
-
-Main Features of the Project:
-Files and Classes: 
+"Library Management Project" is my first  project that I created using object-oriented programming techniques in Python. It aims to provide basic library functions such as listing, adding, and removing books through a user-friendly interface. Here are the main Features of the Project:
 
 book.py: Contains the Book class, which holds information for a book. Each book object stores the name of the book, name of the  author, release date, and number of pages of the book.
 
